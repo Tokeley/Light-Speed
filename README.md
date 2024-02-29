@@ -6,10 +6,9 @@ Light Speed is a simple space-themed video game for learning basic arithmetic, a
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Demo](#demo)
 - [Installation and Usage](#installation-and-usage)
-- [Software Design Principles](#software-design-principles)
-- [Contributors](#contributors)
+- [What I Learned](#what-i-learned)
 
 ## Overview
 
