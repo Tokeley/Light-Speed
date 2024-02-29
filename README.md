@@ -1,6 +1,4 @@
-# Project Name
-
-![Project Logo](logo.png)
+# Light Speed
 
 Introduction to project: quick summary of what the project does and what it hopes to achieve
 
