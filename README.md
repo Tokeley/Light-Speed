@@ -31,7 +31,7 @@ Embark on an exciting adventure through the cosmos, the only catch is that to su
 1. Clone the repository: `git clone [https://github.com/your-username/hobby-detectives.git](https://github.com/Tokeley/Light-Speed.git)`
 2. Run the game using the command: `python3 main.py`
 
-## What I Learnt
+## What I Learned
 
 In the development of Light Speed, I learned many core software design techniques that include: 
 - **Basics of object-orientated design:** This was the first project I've made that used OOP. Creating separate classes for asteroids, questions, projectiles, and more was vital in the game design.  OOP allows you to break down the game into manageable, modular components called objects. From this, I learned the basics of encapsulation.
