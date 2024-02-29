@@ -1,6 +1,6 @@
-# Light Speed
+# Light Speed 🚀 
 
-Introduction to project: quick summary of what the project does and what it hopes to achieve
+Lightspeed is a simple space-themed video game for learning basic arithmetic, aimed at children between the ages of 5 and 13. This project was built with Python and the Pygame library.
 
 ## Table of Contents
 
@@ -13,13 +13,14 @@ Introduction to project: quick summary of what the project does and what it hope
 
 ## Overview
 
-How the program works and how you use it
+Embark on an exciting adventure through the cosmos, the only catch is that to survive, you must master your mathematical prowess! In Light Speed, the objective is to captain the spaceship to shoot and destroy the asteroids (by pressing the space bar) with the correct answer to the maths question shown on the planet at the bottom of the screen. Asteroids with incorrect answers can not be destroyed. You have three lives, each time you get hit by an asteroid you lose a life, and if you lose all three it is game over! Move the ship up and down with the arrow keys. The game offers four levels/planets with increasing difficulty. A level will be recommended to you depending on your age. Good luck!
 
 ## Features
 
-- Best project ever
-- Uses every framework
-- Can cure caner
+- Fun and exciting gameplay that encourages children to engage in arithmetic practice.
+- Level recommendation depending on age.
+- Pleasing pixel art design.
+- Intuitive controls and user-friendly interactions for a smooth gameplay experience.
 
 ## Demo
 
