@@ -28,7 +28,7 @@ Embark on an exciting adventure through the cosmos, the only catch is that to su
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone [https://github.com/your-username/hobby-detectives.git](https://github.com/Tokeley/Light-Speed.git)`
+1. Clone the repository: `git clone https://github.com/Tokeley/Light-Speed.git`
 2. Run the game using the command: `python3 main.py`
 
 ## What I Learned
