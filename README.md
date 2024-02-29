@@ -28,22 +28,12 @@ Embark on an exciting adventure through the cosmos, the only catch is that to su
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/hobby-detectives.git`
-2. Navigate to the project directory: `cd hobby-detectives`
-3. Compile the Java code: `javac HobbyDetectives.java`
-4. Run the game: `java HobbyDetectives`
-5. Follow the on-screen instructions to play the game.
+1. Clone the repository: `git clone [https://github.com/your-username/hobby-detectives.git](https://github.com/Tokeley/Light-Speed.git)`
+2. Run the game using the command: `python3 main.py`
 
 ## What I Learnt
 
-Outline what software principles or concepts you learnt doing this project
-
-## Contributors
-
-- Tokeley ([@tokeley](https://github.com/tokeley))
-- SlazengerV100 ([@slazengerv100](https://github.com/slazengerv100))
-- MathiasSCode ([@mathiasscode](https://github.com/mathiasscode))
-
----
-
-Conclusion if needed 
+In the development of Light Speed, I learned many core software design techniques that include: 
+- **Basics of object-orientated design:** This was the first project I've made that used OOP. Creating separate classes for asteroids, questions, projectiles, and more was vital in the game design.  OOP allows you to break down the game into manageable, modular components called objects. From this, I learned the basics of encapsulation.
+- **State management:** Light Speed also makes use of basic state management. It has a menu, instructions, ageSelection, mainGame, and more possible states. Each of these states has a game loop that runs indefinitely but will transition into another state given a specific trigger like pressing a "Play" button. By dividing the game into distinct states such as menu, instructions and mainGame, it clearly defines and organizes the different parts of your game. This makes it easier to understand the flow of the game and maintain the codebase as it grows.
+- **Pixel Art:** I learned basic pixel art to create the Light Speed design. This was a fun creative challenge and I am very proud of the results. The pixel art gives the game a cohesive theme resulting in a polished and engaging look and feel. I used [Pixilart](pixilart.com) to create all the designs for the game including the spaceship, the asteroids, and the planets. 
